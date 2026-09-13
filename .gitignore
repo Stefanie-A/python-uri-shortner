@@ -1,2 +1,3 @@
 venv/
-terraform.tfstate
+terraform.tfstate__pycache__/
+*.pyc
